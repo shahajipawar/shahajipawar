@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahajipawar
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning selenium with java
+- 👀 I’m interested in WEB & API Automation
+- 🌱 I’m currently learning selenium with java, RESTAssured, Cypress
 - 📫 How to reach me - Shahaji.pawar07@gmail.com
 
 <!---
